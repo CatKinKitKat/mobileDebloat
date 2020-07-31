@@ -92,7 +92,6 @@ pm uninstall -k --user 0 com.sec.android.app.SecSetupWizard
 pm uninstall -k --user 0 com.sec.android.app.servicemodeapp
 pm uninstall -k --user 0 com.sec.android.app.shealth
 pm uninstall -k --user 0 com.sec.android.app.SmartClipEdgeService
-pm uninstall -k --user 0 com.sec.android.app.soundalive
 pm uninstall -k --user 0 com.sec.android.app.sysscope
 pm uninstall -k --user 0 com.sec.android.app.tfunlock
 pm uninstall -k --user 0 com.sec.android.app.tourviewer
@@ -140,7 +139,6 @@ pm uninstall -k --user 0 com.sec.everglades.update
 pm uninstall -k --user 0 com.sec.factory
 pm uninstall -k --user 0 com.sec.factory.camera
 pm uninstall -k --user 0 com.sec.factory.iris.usercamera
-pm uninstall -k --user 0 com.sec.hearingadjust
 pm uninstall -k --user 0 com.sec.ims
 pm uninstall -k --user 0 com.sec.imslogger
 pm uninstall -k --user 0 com.sec.imsservice
